@@ -118,8 +118,3 @@ What it does: multiplies the top two elements of the stack. The answer is stored
     What it does: computes the remainder of the division of the second top element of the stack by the top element of the stack. The answer is stored in the second top element of the stack and the top element is removed so that the top element contains the result and the stack is one element shorter.
 
 ---
-
-## Author
-
-* **Rory Fahy** - [rmf10003](https://github.com/rmf10003)
-* **Jared Ratner** - [OrangeB0lt](https://github.com/OrangeB0lt)
